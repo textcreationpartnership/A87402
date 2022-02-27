@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioyfull newes from Lichfield, being the true copie of a letter sent from a captain in Lichfield to his wife in London, dated Aprill 17. Wherein is contained the proceedings of Prince Rupert against the Parliaments forces in the said town: containing 1 The manner of Prince Ruperts assaulting Lichfield. 2 His endeavouring to undermine the wall with pick-axes. 3 How he attempted to scale the wals of the close, and what men he lost in that attempt. 4 How he was repulsed by the Parliaments forces, and how they rung the bels in defiance of him. 5 A postscript annext to this letter, declaring Prince Ruperts death upon great probabilities. Published at the desire of those that upon occasion will justifie the truth of what is herein contained.</title>
+            <author>Captain in Lichfield.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87402</idno>
+            <idno type="STC">Wing J1138</idno>
+            <idno type="STC">Thomason E99_13</idno>
+            <idno type="STC">ESTC R20349</idno>
+            <idno type="EEBO-CITATION">99863435</idno>
+            <idno type="PROQUEST">99863435</idno>
+            <idno type="VID">155841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155841)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ioyfull newes from Lichfield, being the true copie of a letter sent from a captain in Lichfield to his wife in London, dated Aprill 17. Wherein is contained the proceedings of Prince Rupert against the Parliaments forces in the said town: containing 1 The manner of Prince Ruperts assaulting Lichfield. 2 His endeavouring to undermine the wall with pick-axes. 3 How he attempted to scale the wals of the close, and what men he lost in that attempt. 4 How he was repulsed by the Parliaments forces, and how they rung the bels in defiance of him. 5 A postscript annext to this letter, declaring Prince Ruperts death upon great probabilities. Published at the desire of those that upon occasion will justifie the truth of what is herein contained.</title>
+                  <author>Captain in Lichfield.</author>
+               </titleStmt>
+               <extent>[2], 6 p.4#20.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Lichfield (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155841:1" rendition="simple:additions"/>
+            <p>Ioyfull Newes FROM LICHFIELD, BEING The true Copie of a Letter ſent from a Captain in LICHFIELD to his wife in <hi>London,</hi> Dated <hi>Aprill</hi> 17.</p>
+            <p>Wherein is contained the proceedings of Prince <hi>Rupert</hi> againſt the Parliaments Forces in the ſaid town: CONTAINING
+<list>
+                  <item>1 <hi>The manner of Prince</hi> Ruperts <hi>aſſaulting</hi> Lichfield.</item>
+                  <item>2 <hi>His endeavouring to undermine the wall with pick-axes.</hi>
+                  </item>
+                  <item>3 <hi>How he attempted to ſcale the wals of the cloſe, and what men he loſt in that attempt.</hi>
+                  </item>
+                  <item>4 <hi>How he was repulſed by the Parliaments Forces, and how they rung the bels in defiance of him.</hi>
+                  </item>
+                  <item>5 <hi>A Poſtſcript annext to this Letter, declaring Prince</hi> Ruperts <hi>death upon great probabilities.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Publiſhed at the deſire of thoſe that upon occaſion will juſtifie the truth of what is herein contained.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Watſon.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155841:2"/>
+            <pb n="1" facs="tcp:155841:2"/>
+            <head>True Intelligence FROM LICHFIELD Declaring the proceedings of Prince ROBERT, againſt the Parliaments For<g ref="char:EOLhyphen"/>ces, with the true eſtate of the Siege, &amp;c.</head>
+            <p>IT is apparent that Prince <hi>Rupert</hi> hath alwaies been ſince the firſt beginning of theſe Warres, and at this preſent doth continue very active in promoting, countenancing, and perſonally executing thoſe de<g ref="char:EOLhyphen"/>ſtructeve, diſhonourable, and ſo much deteſted de<g ref="char:EOLhyphen"/>ſignes of pillaging and plundering the inhabitants of this Kingdome, alwaies expreſſing his vallour where he finds, or expects the weakeſt oppoſition, other<g ref="char:EOLhyphen"/>wiſe he had not ſo valliantly aſſaulted Cirenceſter, had not his ods in number, and times advantage given him a daring reſolution.</p>
+            <pb n="2" facs="tcp:155841:3"/>
+            <p>Had he aſſaulted Bromiſham, had it been a town fortefied, or had it had in it any conſiderable ſtrength, but places weakeſt in themſelves, and fartheſt from the reliefe of others, are onely made the ſubject of his vallour.</p>
+            <p>Let it be examined what honourable exploit he has performed ſince the begining of theſe Warres, that he ſhould be ſo much cried up by his malignant and evil-affected admirers.</p>
+            <p>At the Battell at Edge-hill, when he ſhould have guarded the Standard, he was a plundering the Wag<g ref="char:EOLhyphen"/>gons, it ſeemes he fought for the ſpoile, not for ho<g ref="char:EOLhyphen"/>nour and the cauſe, but happily ſhould he have inga<g ref="char:EOLhyphen"/>ged himſelfe in ſo hot a ſ rvice, he might have been forced to beare either the Bearer, or Standard com<g ref="char:EOLhyphen"/>pany, in death or reſtraint, therefore he made uſe of the old Proverbe, which concludes it good ſleeping in a whole Skinne, had he been killed or taken there, tis probable Cirenceſter had eſcaped a plundering, Bromiſham had not been fired, nor Lichfield endured ſo long a Siege, upon ſuch an advantage, being a place remote from any place where any of the Parliaments Forces makes their reſidence, and they in themſelves being but a handfull, in comparriſon of his power, being ſeconded by multitudes of his malignant and evill affected Friends, and dependant Collegiats, up<g ref="char:EOLhyphen"/>on which advantage, it is no wonder if he valliantly venture to hazard his perſon at diſtance to give dire<g ref="char:EOLhyphen"/>ction to thoſe, which are already practized in rob<g ref="char:EOLhyphen"/>bing and ſpoiling his Majeſties loyall Subjects, and Liege-People.</p>
+            <pb n="3" facs="tcp:155841:3"/>
+            <p>But I know the malignants of this City, are ſo chai<g ref="char:EOLhyphen"/>ned to the errours of their Fore-fathers, that they thinke their own opinions orthodox, neither will they be drawn to believe ought that ſeemes contrary to their deſires, they will not believe that Prince Rupert will remain at Liechfield, Redding being beſiedged, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ford ſo much diſtracted, to take off theſe ima<g ref="char:EOLhyphen"/>gin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions, and to make the truth apparent, I will pro<g ref="char:EOLhyphen"/>duce the evidence of two or three witneſſes, which in matters of Law doth determine the greateſt differen<g ref="char:EOLhyphen"/>ces, much more then ought it to convince reaſonable men, in a matter of ſuch a nature as this is, concerning which I ſpeake.</p>
+            <p>By Intelligence bearing date the 16. of Aprill, it is manifeſted that Prince Rupert came before Liech<g ref="char:EOLhyphen"/>field, and plaid againſt it five dayees and nights, that this is true, enquire of the Intelligencer.</p>
+            <p>By another Letter from the Army, it is certified that he was expected at Oxford, but they received certain intelligence that before Liechfield on the 16. of Aprill likewiſe.</p>
+            <p>And by this Letter which I have here publiſhed, at the deſire of ſome Perſons of very conſiderable qual<g ref="char:EOLhyphen"/>lity, and fidellity to the King and Parliament, which was ſent from a Captain to his wife in London, bea<g ref="char:EOLhyphen"/>ring date the 17. of this inſtant Aprill, all which, al<g ref="char:EOLhyphen"/>though from ſeverall places, and from ſeverall Per<g ref="char:EOLhyphen"/>ſons, differs not in the time nor method, all which may ſeem ſufficient evidence to the moſt unbelieving man, however affected or infected with a ſpirit of ma<g ref="char:EOLhyphen"/>lignant infidellity.</p>
+            <div type="letter">
+               <pb n="4" facs="tcp:155841:4"/>
+               <head>The Copie of a Letter ſent from a Cap<g ref="char:EOLhyphen"/>taine in <hi>Lichfield</hi> to his wife in <hi>London,</hi> bearing date Aprill <hi>17.</hi>
+               </head>
+               <p>ALL the newes I can write is, how bravely our men behave themſelves at LICHFIELD, in the Cloſe, againſt Prince RUPERT, he hath fought againſt it ever ſince the tenth of Aprill, and can do no good againſt it: he hath loſt many men, but we have loſt none as yet; he lay ſhooting againſt it for five dayes, and could not make a breach, whereupon he cauſed the Colliers to come in, and they brought with them all their pick-axes to undermine it, but could not for the rock and the water; ſo that fail<g ref="char:EOLhyphen"/>ing, he ſent for all the ladde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s within ten miles, intending to ſcale the wals, which work he put in execution, but could do no good that way: but in the ſcalling of the wals our men kild eight of his men, and took one, and that which they tooke they with advice hanged him three yards from the wall
+<pb n="5" facs="tcp:155841:4"/>like a ſigne, and bid Prince RUPERT ſhoot him down, then Prince RUPERT ſwore, GOD dam him he would not give one man quarter, yet did not make a ſhot; but yet the next day Prince RUPERT ſent to the Cloſe to know if they would yeeld it upon quarter, and to have their goods: they ſent this an<g ref="char:EOLhyphen"/>ſwer to prince RUPERT, that before they would yeeld it up, they would all die, and withall asked the Trumpeter that came to of<g ref="char:EOLhyphen"/>fer them quarter, why prince RUPERT did ſhoot no faſter; and if he wanted powder, they would lend him a barrell: then prince RUPERT ſwore GOD dam him many times together, he would have the Cloſe, or els he would ſtay till Michaelmas, after this he cau<g ref="char:EOLhyphen"/>ſed all his Ordnance to be charged, and ſhot all together at the wall, but hurt not: then our men did ring the bels in the Cloſe in de<g ref="char:EOLhyphen"/>fiance of them. This is all the newes I have to write.</p>
+               <p>Since I writ this Letter I think prince RU<g ref="char:EOLhyphen"/>PERT is ſlain, but I do not know the certain<g ref="char:EOLhyphen"/>ty of it.</p>
+               <closer>
+                  <signed>Thus with my love to you, &amp;c.</signed>
+                  <dateline>
+                     <hi>Lichfield</hi> 
+                     <date>
+                        <hi>Aprill</hi> 16. 1643.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <pb n="6" facs="tcp:155841:5"/>
+                  <p>Although this Poſtſcript carry not that certainty and efficacy that happily is expected by ſome, and deſired of moſt men, eſpecially thoſe that wiſh well to the propagation of the Goſpell, (to which we have cauſe to believe him an Enemy) and the Peace of the King, Parliament, and Kingdome, yet let it not be concluded as a matter infallible, for believe it for a truth, the Captain that ſent this Letter, is a man of that conſcience and honeſty, that he would not have mentioned any ſuch thing, had he not had ſome ſpe<g ref="char:EOLhyphen"/>ciall probabillity thereof.</p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155841:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
